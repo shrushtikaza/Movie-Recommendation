@@ -37,7 +37,7 @@ The system uses a movie dataset (`movies.csv`) containing the following key colu
 
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install numpy pandas scikit-learn
    ```
 
 4. Ensure the `movies.csv` file is present in the same directory as the script.
